@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaFigure", "AreaFigure.csproj", "{403AD6B7-CF0E-4E5D-958C-47C851138FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{1DCFE6B0-960F-45F1-8F54-B2F07583B449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{FE563ABB-1C88-42F6-A04A-412A2714630B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403AD6B7-CF0E-4E5D-958C-47C851138FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403AD6B7-CF0E-4E5D-958C-47C851138FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403AD6B7-CF0E-4E5D-958C-47C851138FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403AD6B7-CF0E-4E5D-958C-47C851138FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCFE6B0-960F-45F1-8F54-B2F07583B449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCFE6B0-960F-45F1-8F54-B2F07583B449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCFE6B0-960F-45F1-8F54-B2F07583B449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCFE6B0-960F-45F1-8F54-B2F07583B449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE563ABB-1C88-42F6-A04A-412A2714630B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE563ABB-1C88-42F6-A04A-412A2714630B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE563ABB-1C88-42F6-A04A-412A2714630B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE563ABB-1C88-42F6-A04A-412A2714630B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB5CADD0-4951-47D4-8173-C3750F87D607}
+	EndGlobalSection
+EndGlobal
